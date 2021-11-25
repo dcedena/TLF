@@ -1,0 +1,2037 @@
+{
+   "type": "FeatureCollection",
+   "features": [{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57386,
+           40.20832
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPV",
+       "desc": "no carton",
+       "latitud": "40.20832",
+       "longitud": "-3.57386"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57314,
+           40.20951
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "esquina",
+       "latitud": "40.20951",
+       "longitud": "-3.57314"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57314,
+           40.20951
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Buzon Correos",
+       "subcat": "AZ",
+       "desc": "buz correos azul",
+       "latitud": "40.20951",
+       "longitud": "-3.57314"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.5731,
+           40.2101
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Buzon Correos",
+       "subcat": "AM",
+       "desc": "buz correos Amarillo frente",
+       "latitud": "40.2101",
+       "longitud": "-3.5731"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57592,
+           40.21102
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21102",
+       "longitud": "-3.57592"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57888,
+           40.21202
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OP",
+       "desc": "en el callejón del tucash",
+       "latitud": "40.21202",
+       "longitud": "-3.57888"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57957,
+           40.21202
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21202",
+       "longitud": "-3.57957"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58055,
+           40.21225
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Buzon Correos",
+       "subcat": "AM AZ",
+       "desc": "buz correos azul y amarillo",
+       "latitud": "40.21225",
+       "longitud": "-3.58055"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58091,
+           40.21253
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21253",
+       "longitud": "-3.58091"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58226,
+           40.21269
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21269",
+       "longitud": "-3.58226"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58379,
+           40.2132
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.2132",
+       "longitud": "-3.58379"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58108,
+           40.21606
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "todos",
+       "latitud": "40.21606",
+       "longitud": "-3.58108"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58005,
+           40.21576
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "todos",
+       "latitud": "40.21576",
+       "longitud": "-3.58005"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57762,
+           40.2148
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Hosteleria",
+       "subcat": "Bar",
+       "desc": "El Paso",
+       "latitud": "40.2148",
+       "longitud": "-3.57762"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57705,
+           40.21492
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "todos",
+       "latitud": "40.21492",
+       "longitud": "-3.57705"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57476,
+           40.21403
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "todos",
+       "latitud": "40.21403",
+       "longitud": "-3.57476"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57161,
+           40.21297
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "todos",
+       "latitud": "40.21297",
+       "longitud": "-3.57161"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57014,
+           40.21109
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "todos",
+       "latitud": "40.21109",
+       "longitud": "-3.57014"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.56814,
+           40.21075
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OP",
+       "desc": "Verde y Amarillo",
+       "latitud": "40.21075",
+       "longitud": "-3.56814"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.56901,
+           40.21038
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21038",
+       "longitud": "-3.56901"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.5699,
+           40.20964
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Buzon Correos",
+       "subcat": "AZ",
+       "desc": "buz correos azul",
+       "latitud": "40.20964",
+       "longitud": "-3.5699"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.56958,
+           40.20926
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "sin carton",
+       "latitud": "40.20926",
+       "longitud": "-3.56958"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57185,
+           40.20785
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-18",
+       "fichero": "2021-11-18",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20785",
+       "longitud": "-3.57185"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57884,
+           40.21341
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_a_contenedor",
+       "fichero": "2021-11-20_a_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21341",
+       "longitud": "-3.57884"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57957,
+           40.21199
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_a_contenedor",
+       "fichero": "2021-11-20_a_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21199",
+       "longitud": "-3.57957"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57999,
+           40.21078
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_a_contenedor",
+       "fichero": "2021-11-20_a_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21078",
+       "longitud": "-3.57999"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58049,
+           40.2092
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_a_contenedor",
+       "fichero": "2021-11-20_a_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPV",
+       "desc": "falta carton",
+       "latitud": "40.2092",
+       "longitud": "-3.58049"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58166,
+           40.20997
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_a_contenedor",
+       "fichero": "2021-11-20_a_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20997",
+       "longitud": "-3.58166"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58332,
+           40.20951
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_a_contenedor",
+       "fichero": "2021-11-20_a_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCVR",
+       "desc": "",
+       "latitud": "40.20951",
+       "longitud": "-3.58332"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58405,
+           40.20817
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_a_contenedor",
+       "fichero": "2021-11-20_a_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20817",
+       "longitud": "-3.58405"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58274,
+           40.20787
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_a_contenedor",
+       "fichero": "2021-11-20_a_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20787",
+       "longitud": "-3.58274"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.5824,
+           40.2061
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_a_contenedor",
+       "fichero": "2021-11-20_a_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPV",
+       "desc": "vidrio verde amarillo",
+       "latitud": "40.2061",
+       "longitud": "-3.5824"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58071,
+           40.20626
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_a_contenedor",
+       "fichero": "2021-11-20_a_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20626",
+       "longitud": "-3.58071"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58012,
+           40.20585
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_a_contenedor",
+       "fichero": "2021-11-20_a_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20585",
+       "longitud": "-3.58012"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57929,
+           40.20511
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_a_contenedor",
+       "fichero": "2021-11-20_a_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OP",
+       "desc": "Verde y amarillo",
+       "latitud": "40.20511",
+       "longitud": "-3.57929"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57748,
+           40.20686
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_a_contenedor",
+       "fichero": "2021-11-20_a_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20686",
+       "longitud": "-3.57748"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57382,
+           40.20747
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_a_contenedor",
+       "fichero": "2021-11-20_a_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20747",
+       "longitud": "-3.57382"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57158,
+           40.21079
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21079",
+       "longitud": "-3.57158"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57363,
+           40.21129
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21129",
+       "longitud": "-3.57363"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57533,
+           40.21282
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21282",
+       "longitud": "-3.57533"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57955,
+           40.21427
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21427",
+       "longitud": "-3.57955"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58012,
+           40.21308
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21308",
+       "longitud": "-3.58012"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58929,
+           40.21558
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21558",
+       "longitud": "-3.58929"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58847,
+           40.216
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.216",
+       "longitud": "-3.58847"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58684,
+           40.21457
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21457",
+       "longitud": "-3.58684"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58485,
+           40.21314
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21314",
+       "longitud": "-3.58485"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58498,
+           40.2109
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.2109",
+       "longitud": "-3.58498"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58766,
+           40.20376
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20376",
+       "longitud": "-3.58766"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58477,
+           40.20457
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20457",
+       "longitud": "-3.58477"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58252,
+           40.20564
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20564",
+       "longitud": "-3.58252"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.5824,
+           40.20474
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20474",
+       "longitud": "-3.5824"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58288,
+           40.20363
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20363",
+       "longitud": "-3.58288"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58091,
+           40.20406
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-20_b_contenedor",
+       "fichero": "2021-11-20_b_contenedor",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20406",
+       "longitud": "-3.58091"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57753,
+           40.20944
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-22_contenedores",
+       "fichero": "2021-11-22_contenedores",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20944",
+       "longitud": "-3.57753"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57616,
+           40.2097
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-22_contenedores",
+       "fichero": "2021-11-22_contenedores",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.2097",
+       "longitud": "-3.57616"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57385,
+           40.20751
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-23_contenedores",
+       "fichero": "2021-11-23_contenedores",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20751",
+       "longitud": "-3.57385"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57341,
+           40.20628
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-23_contenedores",
+       "fichero": "2021-11-23_contenedores",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20628",
+       "longitud": "-3.57341"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57265,
+           40.20459
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-23_contenedores",
+       "fichero": "2021-11-23_contenedores",
+       "cat": "Contenedor",
+       "subcat": "O",
+       "desc": "O",
+       "latitud": "40.20459",
+       "longitud": "-3.57265"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57217,
+           40.20525
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-23_contenedores",
+       "fichero": "2021-11-23_contenedores",
+       "cat": "Contenedor",
+       "subcat": "OPV",
+       "desc": "OPV",
+       "latitud": "40.20525",
+       "longitud": "-3.57217"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57147,
+           40.20668
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-23_contenedores",
+       "fichero": "2021-11-23_contenedores",
+       "cat": "Contenedor",
+       "subcat": "OPV",
+       "desc": "falta carton",
+       "latitud": "40.20668",
+       "longitud": "-3.57147"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57023,
+           40.20874
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-23_contenedores",
+       "fichero": "2021-11-23_contenedores",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "soterrados todos",
+       "latitud": "40.20874",
+       "longitud": "-3.57023"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.56382,
+           40.21763
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-23_contenedores",
+       "fichero": "2021-11-23_contenedores",
+       "cat": "Contenedor",
+       "subcat": "O",
+       "desc": "Parque tierno solo organico",
+       "latitud": "40.21763",
+       "longitud": "-3.56382"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.56724,
+           40.21481
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-23_contenedores",
+       "fichero": "2021-11-23_contenedores",
+       "cat": "Contenedor",
+       "subcat": "OPV",
+       "desc": "Polideportivo falta carton",
+       "latitud": "40.21481",
+       "longitud": "-3.56724"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.56822,
+           40.21407
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-23_contenedores",
+       "fichero": "2021-11-23_contenedores",
+       "cat": "Contenedor",
+       "subcat": "Punto Limpio",
+       "desc": "Punto Limpio",
+       "latitud": "40.21407",
+       "longitud": "-3.56822"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.56918,
+           40.21326
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-23_contenedores",
+       "fichero": "2021-11-23_contenedores",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21326",
+       "longitud": "-3.56918"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57182,
+           40.21309
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-23_contenedores",
+       "fichero": "2021-11-23_contenedores",
+       "cat": "Contenedor",
+       "subcat": "OPCVRA",
+       "desc": "",
+       "latitud": "40.21309",
+       "longitud": "-3.57182"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57487,
+           40.21408
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-23_contenedores",
+       "fichero": "2021-11-23_contenedores",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21408",
+       "longitud": "-3.57487"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57897,
+           40.20988
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-23_contenedores",
+       "fichero": "2021-11-23_contenedores",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20988",
+       "longitud": "-3.57897"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57919,
+           40.20713
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-23_contenedores",
+       "fichero": "2021-11-23_contenedores",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20713",
+       "longitud": "-3.57919"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57377,
+           40.2083
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPV",
+       "desc": "",
+       "latitud": "40.2083",
+       "longitud": "-3.57377"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57322,
+           40.20972
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20972",
+       "longitud": "-3.57322"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57321,
+           40.20973
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Buzon Correos",
+       "subcat": "AZ",
+       "desc": "",
+       "latitud": "40.20973",
+       "longitud": "-3.57321"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.573,
+           40.21017
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Buzon Correos",
+       "subcat": "AM",
+       "desc": "",
+       "latitud": "40.21017",
+       "longitud": "-3.573"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57485,
+           40.2107
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "y ropa",
+       "latitud": "40.2107",
+       "longitud": "-3.57485"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.576,
+           40.21107
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21107",
+       "longitud": "-3.576"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57847,
+           40.21222
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "Otros",
+       "desc": "OPC",
+       "latitud": "40.21222",
+       "longitud": "-3.57847"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57812,
+           40.2122
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "Otros",
+       "desc": "CV",
+       "latitud": "40.2122",
+       "longitud": "-3.57812"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57903,
+           40.21341
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21341",
+       "longitud": "-3.57903"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57979,
+           40.21312
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "Otros",
+       "desc": "R",
+       "latitud": "40.21312",
+       "longitud": "-3.57979"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58008,
+           40.21312
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "Otros",
+       "desc": "OPC",
+       "latitud": "40.21312",
+       "longitud": "-3.58008"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58318,
+           40.21412
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Buzon Correos",
+       "subcat": "AZ",
+       "desc": "",
+       "latitud": "40.21412",
+       "longitud": "-3.58318"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58335,
+           40.21489
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "y aceite",
+       "latitud": "40.21489",
+       "longitud": "-3.58335"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58283,
+           40.21645
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21645",
+       "longitud": "-3.58283"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58318,
+           40.21795
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPV",
+       "desc": "",
+       "latitud": "40.21795",
+       "longitud": "-3.58318"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58626,
+           40.21564
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OP",
+       "desc": "",
+       "latitud": "40.21564",
+       "longitud": "-3.58626"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58555,
+           40.21523
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21523",
+       "longitud": "-3.58555"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58543,
+           40.21585
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPV",
+       "desc": "",
+       "latitud": "40.21585",
+       "longitud": "-3.58543"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58554,
+           40.21698
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Buzon Correos",
+       "subcat": "AM",
+       "desc": "",
+       "latitud": "40.21698",
+       "longitud": "-3.58554"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58558,
+           40.21695
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "y ropa",
+       "latitud": "40.21695",
+       "longitud": "-3.58558"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58629,
+           40.21575
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21575",
+       "longitud": "-3.58629"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58839,
+           40.21603
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21603",
+       "longitud": "-3.58839"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.5874,
+           40.21649
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.21649",
+       "longitud": "-3.5874"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58695,
+           40.21727
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "y ropa",
+       "latitud": "40.21727",
+       "longitud": "-3.58695"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58546,
+           40.21809
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "OPC",
+       "latitud": "40.21809",
+       "longitud": "-3.58546"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58379,
+           40.21321
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "OPC",
+       "latitud": "40.21321",
+       "longitud": "-3.58379"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58214,
+           40.21279
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "OPC",
+       "latitud": "40.21279",
+       "longitud": "-3.58214"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57797,
+           40.21099
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "OPC",
+       "latitud": "40.21099",
+       "longitud": "-3.57797"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57614,
+           40.2097
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "OPC",
+       "latitud": "40.2097",
+       "longitud": "-3.57614"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57521,
+           40.20693
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "Otros",
+       "desc": "OPC",
+       "latitud": "40.20693",
+       "longitud": "-3.57521"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57756,
+           40.20694
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "y ropa",
+       "latitud": "40.20694",
+       "longitud": "-3.57756"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.57933,
+           40.20513
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OP",
+       "desc": "",
+       "latitud": "40.20513",
+       "longitud": "-3.57933"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58096,
+           40.20412
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPV",
+       "desc": "",
+       "latitud": "40.20412",
+       "longitud": "-3.58096"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58238,
+           40.20611
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPV",
+       "desc": "",
+       "latitud": "40.20611",
+       "longitud": "-3.58238"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58775,
+           40.20368
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPV",
+       "desc": "",
+       "latitud": "40.20368",
+       "longitud": "-3.58775"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58478,
+           40.20462
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20462",
+       "longitud": "-3.58478"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58249,
+           40.20473
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20473",
+       "longitud": "-3.58249"
+   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+      "type": "Point",
+      "coordinates": [
+           -3.58239,
+           40.20566
+       ]
+   },
+   "properties": {
+       "fichero": "2021-11-24_contenedores_buz",
+       "fichero": "2021-11-24_contenedores_buz",
+       "cat": "Contenedor",
+       "subcat": "OPCV",
+       "desc": "",
+       "latitud": "40.20566",
+       "longitud": "-3.58239"
+   }
+}
+   ]
+}
